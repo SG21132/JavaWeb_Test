@@ -1,0 +1,60 @@
+*{
+   font-size:12px;
+   font-family:"楷体";
+}
+.deng{
+   border:1px none black;
+   border-radius:20px;
+   width: 400px;
+   height:300px;
+   margin:0 auto;
+   padding:20px;
+   background:rgb(254, 254, 253);
+   text-align: center;
+
+}
+.body{
+    background-color: rgb(234, 244, 253);
+}
+.box{
+    display: block;
+    border:4px none black;
+   border-radius:20px;
+   width: 350px;
+   height:200px;
+   margin:0 auto;
+   text-align: center;
+}
+.form{
+    display:block;
+    border:1px none black;
+    width:300px;
+    height:200px;
+    position:relative;
+    margin:0 auto;
+    justify-content: center;
+    align-items: center;
+
+   text-align: left;
+}
+.button{
+    width:100px;
+   height:30px;
+    background:#007bff;
+    color:#fff;
+    border:none;
+    border-radius:4px;
+    cursor:pointer;
+    font-size:16px;
+}
+.input{
+    width:250px;
+    height:25px;
+}
+span{
+   display: block;
+   text-align: left;
+}
+h1{
+    font-size:20px;
+}
