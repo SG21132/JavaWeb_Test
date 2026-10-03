@@ -1,2 +1,3 @@
 # JavaWeb_Test
-练习javaweb、tomact及对SSM的学习
+学生选课系统练习
+0.0.1 -- javaweb
